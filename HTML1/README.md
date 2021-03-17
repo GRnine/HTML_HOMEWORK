@@ -2,7 +2,7 @@
 CodeCamp online 8
 นายกฤษกานต์ รอดบุตร
 
-https://grnine.github.io/HOMEWORK-HTML1/
+https://grnine.github.io/HTML1/
 
 Homework1
 1. สร้างหน้า index.html เป็น homepage 
